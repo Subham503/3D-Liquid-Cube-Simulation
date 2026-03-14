@@ -17,10 +17,6 @@ The cube rotates, tilts, and resizes based on detected gestures while the liquid
 
 ### Simulation Preview
 
-## Demo
-
-### Simulation Preview
-
 <p align="center">
   <img src="assets/demo.gif" width="700">
 </p>
