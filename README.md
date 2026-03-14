@@ -22,7 +22,7 @@ The cube rotates, tilts, and resizes based on detected gestures while the liquid
 Example:
 
 ```
-docs/demo.gif
+assets/demo.gif
 ```
 
 Then include it like this:
