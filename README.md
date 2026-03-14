@@ -28,7 +28,7 @@ assets/demo.gif
 Then include it like this:
 
 ```markdown
-![Demo](docs/demo.gif)
+![Demo](assets/demo.gif)
 ```
 
 You can record a GIF using tools like **OBS Studio**, **ScreenToGif**, or **ShareX**.
