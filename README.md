@@ -82,7 +82,7 @@ Ctrl + C
 ## 1. Clone the Repository
 
 ```
-git clone https://github.com/yourusername/3D-LiquidSimulation.git
+https://github.com/Subham503/3D-Liquid-Cube-Simulation.git
 cd 3D-LiquidSimulation
 ```
 
