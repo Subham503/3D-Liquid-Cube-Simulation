@@ -17,19 +17,13 @@ The cube rotates, tilts, and resizes based on detected gestures while the liquid
 
 ### Simulation Preview
 
-*(Add a GIF or screen recording here)*
+## Demo
 
-Example:
+### Simulation Preview
 
-```
-assets/demo.gif
-```
-
-Then include it like this:
-
-```markdown
-![Demo](assets/demo.gif)
-```
+<p align="center">
+  <img src="assets/demo.gif" width="700">
+</p>
 
 You can record a GIF using tools like **OBS Studio**, **ScreenToGif**, or **ShareX**.
 
